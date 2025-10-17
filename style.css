@@ -105,6 +105,11 @@ margin-right: 10px;
 }
 
 @media (max-width: 768px) {
+
+    body{
+box-sizing: border-box;
+    }
+
     #section2{
         flex-direction: column;
     }
